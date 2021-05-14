@@ -1,0 +1,25 @@
+[
+    {
+        "id":1,
+        "name": "Juan",
+        "username": "Rojas",
+        "email": "juanrojas@mail.com",
+        "phone": "12345"
+    },
+    {
+        "id":2,
+        "name": "Tami",
+        "username": "Ojeda",
+        "email": "tami123@mail.com",
+        "phone": "67890"
+
+    },
+    {
+        "id":3,
+        "name": "Gabriel",
+        "username": "Ruiz",
+        "email": "rui.gabriel@gmail.com",
+        "phone": "128934"
+
+    }
+]
